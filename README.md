@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+A simple application for playing cards.
 
 ## Installation
 
